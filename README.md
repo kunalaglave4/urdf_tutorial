@@ -7,4 +7,8 @@ This repository is created for a tutorial you can follow here: https://youtube.c
 
 You can follow the series of tutorials on youtube to know more about this topic.
 
+You can use the SOLIDWORKS CAD model to generate the ROS Package on your own.
+
+The "robot_arm_urdf.zip" fie contains the raw ROS ackage generated from SOLIDWORKS. You can use it for the next tutorial to import the package in ROS.
+
 Thank You!
